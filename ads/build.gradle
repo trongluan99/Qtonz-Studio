@@ -77,7 +77,7 @@ afterEvaluate {
             release(MavenPublication) {
                 from components.release
                 groupId = 'com.github.trongluan99'
-                artifactId = 'JP-Software'
+                artifactId = 'Qtonz-Studio'
                 version = '1.0.0'
             }
         }
